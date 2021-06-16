@@ -1,0 +1,25 @@
+{
+  "name": "test_cloud_engineer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anunphop/test_cloud_engineer.git"
+  },
+  "author": "Pattana Anunphop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anunphop/test_cloud_engineer/issues"
+  },
+  "homepage": "https://github.com/anunphop/test_cloud_engineer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
